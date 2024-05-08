@@ -1,10 +1,17 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Pranav Sanjay Bhsoale</h1>
+<h3 align="center">A passionate Full stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=psbhosal&label=Profile%20views&color=0e75b6&style=flat" alt="psbhosal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psbhosal" alt="psbhosal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [linkedin.com/in/pranav-bhosale-396861205](linkedin.com/in/pranav-bhosale-396861205)
+
+- 📫 How to reach me **pranavbhosale713@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1vH603RpvbBVsHkiKmtRpLVjPmrhIy-Ag/view?usp=drive_link](https://drive.google.com/file/d/1vH603RpvbBVsHkiKmtRpLVjPmrhIy-Ag/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
